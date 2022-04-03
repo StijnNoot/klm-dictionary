@@ -5,19 +5,19 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleIdentifier</key>
-	<string>aleksandrvin.KLMAbbreviationsDictionary</string>
+	<string>aleksandrvin.KLMDictionary</string>
 	<key>CFBundleName</key>
-	<string>KLM Abbreviations</string>
+	<string>KLM</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>{{VERSION}}</string>
 	<key>DCSDictionaryCopyright</key>
-	<string>KLM Abbreviations
-	https://github.com/aleksandr-vin/klm-abbreviations-macos-dictionary
+	<string>KLM Dictionary
+	https://github.com/aleksandr-vin/klm-dictionary
 	No Copyright (CC0 1.0)</string>
 	<key>DCSDictionaryManufacturerName</key>
 	<string>Aleksandr Vinokurov</string>
 	<key>DCSDictionaryFrontMatterReferenceID</key>
-	<string></string>
+	<string>front_back_matter</string>
 	<key>DCSDictionaryPrefsHTML</key>
 	<string></string>
 	<key>DCSDictionaryXSL</key>

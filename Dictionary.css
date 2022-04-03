@@ -11,15 +11,34 @@
   }
 }
 
+/* 
 d|entry {
+}
+ */
+
+div {
+  -webkit-font-smoothing: antialiased;
+  /* color: rgb(55, 182, 231); */
+  font-family: noa, verdana, arial, sans-serif, serif;
+  font-weight: normal;
 }
 
 h1 {
   font-size: 150%;
+  -webkit-font-smoothing: antialiased;
+  color: rgb(55, 182, 231);
+  display: block;
+  font-family: noa, verdana, arial, sans-serif, serif;
+  font-weight: normal;
 }
 
 h3 {
   font-size: 100%;
+  -webkit-font-smoothing: antialiased;
+  color: rgb(55, 182, 231);
+  display: block;
+  font-family: noa, verdana, arial, sans-serif, serif;
+  font-weight: normal;
 }
 
 .ex,

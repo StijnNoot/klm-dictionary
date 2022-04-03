@@ -1,0 +1,22 @@
+<d:entry id="front_back_matter" d:title="KLM Dictionary Front/Back Matter">
+	<h1>KLM Dictionary</h1>
+	<h3>Version {{VERSION}}</h3>
+    <div>
+		Address: <a href="https://github.com/aleksandr-vin/klm-dictionary">https://github.com/aleksandr-vin/klm-dictionary</a>
+	</div>
+    <div>
+        <svg version="1.1" id="KLM" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        viewBox="0 0 306.3 204.5" style="enable-background:new 0 0 306.3 204.5;" xml:space="preserve">
+            <style type="text/css">
+                .st0{fill:#0095DB;}
+            </style>
+            <path class="st0" d="M150,52.7h6.4v-6.4h6.4v-6.4h-6.4v-6.4H150v6.4h-6.4v6.4h6.4V52.7z M191.4,51.1c-6.2,0-11.2,5-11.2,11.2
+                c0,6.2,5,11.2,11.2,11.2c6.2,0,11.2-5,11.2-11.2C202.6,56.1,197.6,51.1,191.4,51.1z M114.9,89.5h76.5V76.7h-76.5V89.5z M126.1,62.3
+                c0-6.2-5-11.2-11.1-11.2c-6.2,0-11.2,5-11.2,11.2c0,6.2,5,11.2,11.2,11.2C121.1,73.5,126.1,68.5,126.1,62.3z M154.8,62.3
+                c0,6.2,5,11.2,11.2,11.2c6.2,0,11.1-5,11.1-11.2c0-6.2-5-11.2-11.1-11.2C159.8,51.1,154.8,56.1,154.8,62.3z M140.4,73.5
+                c6.1,0,11.2-5,11.2-11.2c0-6.2-5-11.2-11.2-11.2c-6.2,0-11.2,5-11.2,11.2C129.3,68.5,134.2,73.5,140.4,73.5z M223.3,102.3l-9.6,28.8
+                l-9.6-28.8h-31.9v51.1h19.1V115l12.8,38.3h19.1l12.7-38.3v38.3h19.1v-51.1H223.3z M134,102.3h-19.1v51.1h51v-12.9H134V102.3z
+                M108.5,102.3H89.4l-19.2,19.2v-19.2H51.1v51.1h19.1v-19.2l19.2,19.2h25.5l-28.7-28.8L108.5,102.3z"/>
+        </svg>
+    </div>
+</d:entry>
