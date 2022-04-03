@@ -1,0 +1,9 @@
+beautifulsoup4==4.10.0
+html5lib==1.1
+lxml==4.8.0
+prompt-toolkit==3.0.28
+pyglossary==4.5.0
+six==1.16.0
+soupsieve==2.3.1
+wcwidth==0.2.5
+webencodings==0.5.1

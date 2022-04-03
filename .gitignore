@@ -1,1 +1,4 @@
 objects
+.venv
+.DS_Store
+Dictionary

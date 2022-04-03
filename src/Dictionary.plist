@@ -17,21 +17,13 @@
 	<key>DCSDictionaryManufacturerName</key>
 	<string>Aleksandr Vinokurov</string>
 	<key>DCSDictionaryFrontMatterReferenceID</key>
-	<string>front_back_matter</string>
+	<string></string>
 	<key>DCSDictionaryPrefsHTML</key>
-	<string>Dictionary_Prefs.html</string>
+	<string></string>
 	<key>DCSDictionaryXSL</key>
-	<string>Dictionary.xsl</string>
+	<string></string>
 	<key>DCSDictionaryDefaultPrefs</key>
 	<dict>
-		<key>pronunciation</key>
-		<string>0</string>
-		<key>display-column</key>
-		<string>1</string>
-		<key>display-picture</key>
-		<string>1</string>
-		<key>version</key>
-		<string>1</string>
 	</dict>
 </dict>
 </plist>
