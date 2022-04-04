@@ -1,6 +1,6 @@
 # Dictionary of abbreviations and definitions used in KLM
 
-<img src="https://help.apple.com/assets/5FF90E6668704A53E560B9A4/5FF90E6668704A53E560B9AB/en_US/77986bc84bd62f37a5d26feae626d428.png" alt="" height="120" width="120" originalimagename="SharedArt/AppIconTopic_Dictionary.png">
+<img src="https://help.apple.com/assets/5FF90E6668704A53E560B9A4/5FF90E6668704A53E560B9AB/en_US/77986bc84bd62f37a5d26feae626d428.png" alt="" height="120" width="120" originalimagename="SharedArt/AppIconTopic_Dictionary.png"> <img src="kl_logo.svg" height="120" width="120">
 
 In [Apple](https://support.apple.com/en-gu/guide/dictionary/welcome/mac) &
 [XDXF](https://github.com/soshial/xdxf_makedict/tree/master/format_standard) formats.
