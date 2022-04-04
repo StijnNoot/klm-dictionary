@@ -18,6 +18,13 @@ Apple Dictionary format with the help of [PyGlossary](https://github.com/ilius/p
 
 NOTE: XDXF is not fully supported by PyGlossary, so be carefull – don't overcomplicate.
 
+### Formatting Raw Input
+
+#### From Confluence
+
+If you copy text from Confluence tables of 3 columns (Abbr, Name, Description), then you can use `formatter.sh` script to
+create `<ar>` entries for XDXF file.
+
 ### Setup
 
 Run `./setup.sh`, you'll need Python 3.
