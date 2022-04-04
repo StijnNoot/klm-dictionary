@@ -1,5 +1,9 @@
 # KLM Dictionary (in XDXF & Apple formats)
 
+Dictionary of abbreviations and definitions used in KLM.
+
+In Apple & [XDXF](https://github.com/soshial/xdxf_makedict/tree/master/format_standard) formats.
+
 ## Installation
 
 Download release. Unpack into `${HOME}/Library/Dictionaries/` (create directory if needed).
