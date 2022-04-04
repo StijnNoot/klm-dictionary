@@ -1,7 +1,7 @@
-name: Build
+name: "Build Dictionary"
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Build:
     runs-on: macos-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -17,4 +17,8 @@ jobs:
       - name: Build Dictionary
         run: |
           ./build.sh
+      - uses: actions/upload-artifact@v3
+        with:
+          name: KLM.directory.zip
+          path: objects/KLM.dictionary.zip
       - run: echo "🍏 This job's status is ${{ job.status }}."
