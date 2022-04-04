@@ -14,7 +14,10 @@ mkdir -p "${HOME}/Library/Dictionaries"
 curl -sSL https://github.com/aleksandr-vin/klm-dictionary/releases/download/v.1/KLM.dictionary.zip | bsdtar -xvf- -C "${HOME}/Library/Dictionaries"
 ```
 
-Or do the same steps manually: Download release. Unpack into `${HOME}/Library/Dictionaries/` (create directory if needed).
+Or do the same steps manually:
+
+1. Download release
+2. Unpack into `${HOME}/Library/Dictionaries/` (create directory if needed)
 
 ### Hints
 
