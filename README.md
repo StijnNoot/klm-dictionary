@@ -26,6 +26,7 @@ Or do the same steps manually:
 1. In _Preferences_ of Dictionary.app you can drag the _KLM_ entry to the top to make it first priority.
 2. You can _Look Up_ words from any place: force-push the word or control-click selected text. Then, in the contextual
    menu that appears, choose Look Up.
+3. If you want to add or change a record in this dictionary, please do make a Pull Request or crate an Issue or send me a message!
 
 ## Development
 
