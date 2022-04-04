@@ -14,6 +14,8 @@ mkdir -p "$HOME/Library/Dictionaries"
 curl -sSL https://github.com/aleksandr-vin/klm-dictionary/releases/download/v.1/KLM.dictionary.zip | bsdtar -xvf- -C "$HOME/Library/Dictionaries"
 ```
 
+Then open Dictionary.app, go to _Preferences_ (`Cmd` + `,`) and enable _KLM_ dictionary (it will appear as last one). Check _Hints_ section down.
+
 Or do the same steps manually:
 
 1. Download release
