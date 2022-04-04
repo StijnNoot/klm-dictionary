@@ -10,8 +10,8 @@ In [Apple](https://support.apple.com/en-gu/guide/dictionary/welcome/mac) &
 Copy'n'paste this 2 lines in Terminal.app:
 
 ```sh
-mkdir -p "${HOME}/Library/Dictionaries"
-curl -sSL https://github.com/aleksandr-vin/klm-dictionary/releases/download/v.1/KLM.dictionary.zip | bsdtar -xvf- -C "${HOME}/Library/Dictionaries"
+mkdir -p "$HOME/Library/Dictionaries"
+curl -sSL https://github.com/aleksandr-vin/klm-dictionary/releases/download/v.1/KLM.dictionary.zip | bsdtar -xvf- -C "$HOME/Library/Dictionaries"
 ```
 
 Or do the same steps manually:
