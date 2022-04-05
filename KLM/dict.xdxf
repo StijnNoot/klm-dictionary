@@ -769,6 +769,9 @@
       </def>
     </ar>
 
+    <!-- Different -->
+    <ar><k>NOC</k><def><deftext>NO Connection</deftext></def></ar>
+    <ar><k>SPT</k><def><deftext>Standard Process Time</deftext> <iref href="https://confluence.devnet.klm.com/pages/viewpage.action?pageId=220104165">BL KPI Definitions</iref></def></ar>
 
     <!-- Samples -->
     <!-- See https://github.com/soshial/xdxf_makedict/tree/master/format_standard -->
