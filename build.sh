@@ -19,7 +19,7 @@ rm -rf Dictionary
 
 # Fixup
 cp -v Dictionary.plist Dictionary/Dictionary.plist
-VERSION=$(ggrep -Po '(?<=dict_edition\>)[^<]+' KLM/dict.xdxf)
+VERSION=$(grep '<dict_edition>' KLM/dict.xdxf | sed 's/.*<dict_edition>\(.*\)<\/dict_edition>.*/\1/')
 for f in $(grep -r -l '{{VERSION}}' Dictionary)
 do
   sed -i~ "s/{{VERSION}}/$VERSION/" "$f" && rm "$f~"
