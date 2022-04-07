@@ -19,7 +19,7 @@ jobs:
           ./build.sh
       - uses: actions/upload-artifact@v3
         with:
-          name: KLM.dictionary.zip
-          path: objects/KLM.dictionary.zip
+          name: KLM.dictionary
+          path: objects/KLM.dictionary
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
