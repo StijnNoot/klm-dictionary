@@ -1,8 +1,12 @@
 <d:entry id="front_back_matter" d:title="KLM Dictionary Front/Back Matter">
 	<h1>KLM Dictionary</h1>
-	<h3>Version {{VERSION}}</h3>
+	<h3>Version {{VERSION}}<br /><sup>{{last_edited_date_full}}</sup></h3>
     <div>
-		Address: <a href="https://github.com/aleksandr-vin/klm-dictionary">https://github.com/aleksandr-vin/klm-dictionary</a>
+        <a href="https://github.com/aleksandr-vin/klm-dictionary/edit/main/KLM/dict.xdxf">Edit it on Github</a>
+        or <a href="https://github.com/aleksandr-vin/klm-dictionary/issues/new/choose">report a problem</a>.
+    </div>
+    <div>
+		Address: <a href="https://github.com/aleksandr-vin/klm-dictionary">https://github.com/aleksandr-vin/klm-dictionary</a>.
 	</div>
     <div>
         <svg version="1.1" id="KLM" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"

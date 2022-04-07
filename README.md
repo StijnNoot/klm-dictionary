@@ -11,7 +11,8 @@ Copy'n'paste this 2 lines in Terminal.app:
 
 ```sh
 mkdir -p "$HOME/Library/Dictionaries"
-curl -sSL https://github.com/aleksandr-vin/klm-dictionary/releases/download/v.1/KLM.dictionary.zip | bsdtar -xvf- -C "$HOME/Library/Dictionaries"
+curl -sSL https://github.com/aleksandr-vin/klm-dictionary/releases/latest/download/KLM.dictionary.zip \
+  | bsdtar -xvf- -C "$HOME/Library/Dictionaries"
 ```
 
 Then open Dictionary.app, go to _Preferences_ (`Cmd` + `,`) and enable _KLM_ dictionary (it will appear as last one). Check _Hints_ section down.
