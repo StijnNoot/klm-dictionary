@@ -33,3 +33,7 @@ sed -i~ 's|<br/>\(<br/>\)*|<br/>|g' Dictionary/Dictionary.xml && rm Dictionary/D
 
 SRC_DIR="${1-Dictionary}"
 "${DICT_BUILD_TOOL_BIN?}/build_dict.sh" -e 1 -v 10.6 "${DICT_NAME}" "${SRC_DIR}"/Dictionary.xml "${SRC_DIR}"/Dictionary.css "${SRC_DIR}"/Dictionary.plist
+
+cd objects
+mkdir -p target
+mv KLM.dictionary target/

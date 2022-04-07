@@ -20,6 +20,6 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: KLM.dictionary
-          path: objects/KLM.dictionary
+          path: objects/target
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
