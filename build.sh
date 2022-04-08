@@ -8,6 +8,8 @@ last_edited_date=$(date -r KLM/dict.xdxf '+%d-%m-%Y')
 last_edited_date_full=$(date -r KLM/dict.xdxf -u)
 VERSION=$(git describe --tags --dirty --long --match 'v[0-9]*' | sed 's/-/+./')
 
+echo "Building $VERSION with latest edited date: $last_edited_date_full"
+
 rm -rf Dictionary
 "${PYGLOSSARY_BIN-.venv/bin}/pyglossary" \
   KLM/dict.xdxf \
