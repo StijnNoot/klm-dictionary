@@ -768,6 +768,51 @@
         </deftext>
       </def>
     </ar>
+    <ar>
+      <k>IP&amp;C</k>
+      <k>IPC</k>
+      <k>BPIP&amp;C</k>
+      <k>BPIPC</k>
+      <def>
+        <deftext>
+          Business Platform Integral Planning &amp; Control
+          <def>
+            <deftext>
+              <iref href="https://confluence.devnet.klm.com/display/BPIPC/BPIPC+Home">Home page</iref>
+            </deftext>
+          </def>
+        </deftext>
+      </def>
+    </ar>
+    <ar>
+      <k>PT&amp;I</k>
+      <k>PTI</k>
+      <k>BPPT&amp;I</k>
+      <k>BPPTI</k>
+      <def>
+        <deftext>
+          People Technology &amp; Intelligence
+          <def>
+            <deftext>
+              <iref href="https://confluence.devnet.klm.com/pages/viewpage.action?pageId=410552340">Home page</iref>
+            </deftext>
+          </def>
+        </deftext>
+      </def>
+    </ar>
+    <ar>
+      <k>D&amp;T</k>
+      <def>
+        <deftext>
+          Data &amp; Technology
+          <def>
+            <deftext>
+              <iref href="https://afkl.sharepoint.com/sites/DataTechnologyTransf">At Sharepoint</iref>
+            </deftext>
+          </def>
+        </deftext>
+      </def>
+    </ar>
 
     <!-- Different -->
     <ar><k>NOC</k><def><deftext>NO Connection</deftext></def></ar>
