@@ -19,7 +19,7 @@ jobs:
       - name: Build Dictionary
         run: |
           ./build.sh
-          zip -9 -r KLM.dictionary.zip objects/target/KLM.dictionary
+          (cd objects/target && zip -9 -r ../../KLM.dictionary.zip KLM.dictionary)
       - uses: actions/upload-artifact@v3
         with:
           name: KLM.dictionary
